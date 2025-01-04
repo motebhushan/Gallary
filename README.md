@@ -9,5 +9,6 @@ Simple image gallery created with HTML, CSS and some JavaScript.
 3.  Top navigation links to each section
 4.  Scroll Top using simple JavaScript 
 
-## View Project
-Project can be viewed [here](https://jonesdl-2785.github.io/image-gallery-html-css/).
+## Screenshot
+
+<img width="507" alt="screenshot" src="./images/image.png">
